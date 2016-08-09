@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "cita": "Si buscas resultados diferentes, no hagas siempre lo mismo",
+    "autor": "Albert Einstein",
+    "vida": "1879 – 1955",
+    "Oficio": "Físico alemán"
+  },
+  {
+    "id": 2,
+    "cita": "Sólo los tontos se adaptan a la vida; los inteligentes tratan de adaptar la vida para ellos",
+    "autor": "George Bernard Shaw",
+    "vida": "1856 – 1950",
+    "Oficio": "Escritor irlandés"
+  },
+  {
+    "id": 3,
+    "cita": "Cuanto más grandes somos en humildad, tanto más cerca estamos de la grandeza",
+    "autor": "Rabindranath Tagore",
+    "vida": "1861 – 1941",
+    "Oficio": "Poeta bengalí, filósofo, artista, dramaturgo, músico y novelista"
+  },
+  {
+    "id": 4,
+    "cita": "No ser amado es una simple desventura. La verdadera desgracia es no saber amar",
+    "autor": "Albert Camus",
+    "vida": "1913 – 1960",
+    "Oficio": "Novelista, ensayista, dramaturgo y filósofo francés nacido en Argelia"
+  },
+  {
+    "id": 5,
+    "cita": "Ningún camino de flores conduce hasta la gloria",
+    "autor": "Johann Wolfgang von Goethe",
+    "vida": "1749 – 1832",
+    "Oficio": "Poeta, novelista, dramaturgo y científico alemán"
+  },
+  {
+    "id": 6,
+    "cita": "Vacía tu bolsillo en tu mente y tu mente llenará tu bolsillo",
+    "autor": "Benjamin Franklin",
+    "vida": "1706 – 1790",
+    "Oficio": "Político, científico e inventor estadounidense"
+  },
+  {
+    "id": 7,
+    "cita": "Nunca permitas que tus conquistas te conquisten ni que tus derrotas te derroten",
+    "autor": "Napoleón Bonaparte",
+    "vida": "1769 – 1821",
+    "Oficio": "Militar y gobernante francés"
+  },
+  {
+    "id": 8,
+    "cita": "Odiar es un despilfarro del corazón y el corazón es nuestro mayor tesoro",
+    "autor": "Noel Clarasó",
+    "vida": "1899 – 1985",
+    "Oficio": "Escritor español"
+  },
+  {
+    "id": 9,
+    "cita": "Ignoramos nuestra verdadera estatura hasta que nos ponemos en pie",
+    "autor": "Emily Dickinson",
+    "vida": "1830 – 1886",
+    "Oficio": "Poetisa estadounidense"
+  },
+  {
+    "id": 10,
+    "cita": "El modo de dar una vez en el clavo es dar cien veces en la herradura",
+    "autor": "Miguel de Unamuno",
+    "vida": "1864 – 1936",
+    "Oficio": "Escritor y filósofo español"
+  },
+  {
+    "id": 11,
+    "cita": "No es porque las cosas sean difíciles que no nos atrevemos, es porque no nos atravemos que son difíciles",
+    "autor": "Séneca",
+    "vida": "4 a.C – 65",
+    "Oficio": "Filósofo, político, orador y escritor romano"
+  },
+  {
+    "id": 12,
+    "cita": "Dar un vaso de agua a cambio de un vaso de agua no es nada; la verdadera grandeza consiste en devolver el bien por el mal",
+    "autor": "Mahatma Gandhi",
+    "vida": "1869 – 1948",
+    "Oficio": "Abogado, pensador y político indio"
+  },
+  {
+    "id": 13,
+    "cita": "Lo que no quieras que otros te hagan, no lo hagas a otros",
+    "autor": "Confucio",
+    "vida": "551 a.C. - 479 a.C.",
+    "Oficio": "Filósofo chino"
+  }
+]
