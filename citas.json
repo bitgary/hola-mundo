@@ -124,5 +124,26 @@
     "autor": "Victor Hugo",
     "vida": "1802-1885",
     "Oficio": "Novelista Francés"
-  } 
+  },
+  {
+    "id": 19,
+    "cita": "Preferiría la paz más injusta a la más justa de las guerras",
+    "autor": "Cicerón",
+    "vida": "1802-1885",
+    "Oficio": ""
+  },
+   {
+    "id": 20,
+    "cita": "La esencia de la vida espiritual está formada por nuestros sentimientos y nuestras actitudes hacia los demás",
+    "autor": "Dalai Lama",
+    "vida": "1802-1885",
+    "Oficio": ""
+  },
+  {
+    "id": 21,
+    "cita": "Si nosotros somos tan dados a juzgar a los demás, es debido a que temblamos por nosotros mismos",
+    "autor": "Oscar Wilde",
+    "vida": "1802-1885",
+    "Oficio": "Escritor"
+  },
 ]
