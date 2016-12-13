@@ -146,4 +146,11 @@
     "vida": "1802-1885",
     "Oficio": "Escritor"
   },
+  {
+    "id": 22,
+    "cita": "El ignorante afirma, el sabio duda y reflexiona",
+    "autor": "Aristóteles",
+    "vida": "1802-1885",
+    "Oficio": "Filósofo"
+  }
 ]
