@@ -159,5 +159,12 @@
     "autor": "Jesús de Nazaret",
     "vida": "0-33",
     "Oficio": "Cristo"
+  },
+  {
+    "id": 24,
+    "cita": "No existe el bien ni el mal en sí mismos, sino es la misma mente humana la cual los genera",
+    "autor": "William Shakespeare",
+    "vida": "",
+    "Oficio": "Escritor"
   }
 ]
