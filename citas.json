@@ -152,5 +152,12 @@
     "autor": "Aristóteles",
     "vida": "1802-1885",
     "Oficio": "Filósofo"
-  }  
+  },
+  {
+    "id": 23,
+    "cita": "¿Por qué miras la paja que hay en el ojo de tu hermano y no ves la viga que está en el tuyo?",
+    "autor": "Jesús de Nazaret",
+    "vida": "0-33",
+    "Oficio": "Cristo"
+  }
 ]
