@@ -166,5 +166,124 @@
     "autor": "William Shakespeare",
     "vida": "",
     "Oficio": "Escritor"
+  },
+  {
+    "id": 25,
+    "cita": "Hay tres cosas extremadamente duras: el acero, los diamantes y el conocerse a uno mismo",
+    "autor": "Benjamin Franklin",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 26,
+    "cita": "La duda es uno de los nombres de la inteligencia",
+    "autor": "Jorge Luis Borges",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 27,
+    "cita": "No es hasta que estamos perdidos que comenzamos a comprendernos a nosotros mismos",
+    "autor": "Henry David Thoreau",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 28,
+    "cita": "¿Conocerme a mí mismo? Si lo hiciera, saldría corriendo espantado",
+    "autor": "Johann Wolfgang von Goethe",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 29,
+    "cita": "El hombre que tiene la misma visión sobre el mundo a los cincuenta años que a los veinte, ha desperdiciado treinta años de su vida",
+    "autor": "Muhammad Ali",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 30,
+    "cita": "El único viaje es el viaje interior",
+    "autor": "Rainer Maria Rilke",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 31,
+    "cita": "El hombre que más ha vivido no es aquél que más años ha cumplido, sino aquel que más ha experimentado la vida",
+    "autor": "Jean-Jacques Rousseau",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 32,
+    "cita": "El que esté libre de culpa que tire la primera piedra",
+    "autor": "Jesús de Nazaret",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 33,
+    "cita": "Cuando me preguntaron sobre algún arma capaz de contrarrestar el poder de la bomba atómica yo sugerí la mejor de todas: La paz",
+    "autor": "Albert Einstein",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 34,
+    "cita": "Adentro del Vaticano está todo forrado de oro y afuera los pibes se están muriendo de hambre",
+    "autor": "Diego Armando Maradona",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 35,
+    "cita": "De todos los animales de la creación el hombre es el único que bebe sin tener sed, come sin tener hambre y habla sin tener nada que decir",
+    "autor": "John Steinbeck",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 36,
+    "cita": "",
+    "autor": "",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 37,
+    "cita": "¿Qué es el dinero?, piedra y papel. Absurdo",
+    "autor": "Gary",
+    "vida": "1977-?",
+    "Oficio": ""
+  },
+  {
+    "id": 38,
+    "cita": "Hemos aprendido a volar como los pájaros, a nadar como los peces, pero no hemos aprendido el arte de vivir juntos, como hermanos",
+    "autor": "Martin Luther King",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 39,
+    "cita": "No estoy de acuerdo con lo que dices, pero hasta con la vida defendere el derecho que tienes de decir lo que piensas",
+    "autor": "Voltaire",
+    "vida": "",
+    "Oficio": ""
+  },
+  {
+    "id": 40,
+    "cita": "Solo hay un bien: el conocimiento. Solo hay un mal: la ignorancia",
+    "autor": "Sócrates",
+    "vida": "470 AC-399 AC",
+    "Oficio": "Filósofo griego"
+  },
+  {
+    "id": 41,
+    "cita": "Según vamos adquiriendo conocimiento, las cosas no se hacen más comprensibles, sino más misteriosas",
+    "autor": "Albert Schweitzer",
+    "vida": "1875-1965",
+    "Oficio": "Filósofo, médico y escritor alemán"
   }
 ]
